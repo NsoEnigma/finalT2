@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="biblioteca.xsl"?>
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///D:/alejandro/Cenec%2021-22/programas/xamp/htdocs/finalT2/biblioteca.xsd">
+  <libro>
+    <foto>miki.webp</foto>
+    <titulo>Miki mirando a la nada</titulo>
+    <autor>Jimmy el Temeroso</autor>
+    <fechaPublicacion año="1976"/>
+  </libro>
+  <libro>
+    <foto>senda.webp</foto>
+    <titulo>Senda se durmio</titulo>
+    <autor fechaNacimiento="28/03/1936">Timmy el Pequeño</autor>
+    <fechaPublicacion año="1973"/>
+  </libro>
+  <libro>
+    <foto>summer.webp</foto>
+    <titulo>Summer te enamora</titulo>
+    <autor fechaNacimiento="28/03/1936">Wimmy el Perdido</autor>
+    <fechaPublicacion año="1969"/>
+  </libro>
+</biblioteca>
